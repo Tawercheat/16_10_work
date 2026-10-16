@@ -1,2 +1,3 @@
 work: "univer"
 config: ["test","ne_test"]
+branch: "update-settings"
